@@ -1,6 +1,6 @@
 # Contribution Charts for Celine Projects
 
-This repository contains visual representations of my contributions to various projects under the Celine organization. The charts were generated using a custom script I created, which processes contribution data and outputs detailed visualizations. You can find the script [here]().
+This repository contains visual representations of my contributions to various projects under the Celine organization. The charts were generated using a custom script I created, which processes contribution data and outputs detailed visualizations. You can find the script [here](https://github.com/paradoxial-composition/gitlogs-heatmap-generator/blob/main/git_log_heatmap.py).
 
 ## Overview
 
@@ -10,7 +10,7 @@ Below are charts that summarize my contributions for each individual repository,
 
 ### Summary Chart
 
-![Summary Chart](path_to_summary_chart.png)  
+![Summary Chart](./summary_heatmap.png)  
 *This chart provides an overview of my total contributions across all repositories.*
 
 ---
@@ -69,6 +69,6 @@ Below are charts that summarize my contributions for each individual repository,
 
 ### How It Was Made
 
-The charts were generated using a Python script I developed, which automates the process of collecting contribution data from GitHub and visualizing it. The script leverages libraries such as `matplotlib` and `pandas` for data processing and visualization. You can explore the script and its functionality by visiting the [GitHub repository]().
+The charts were generated using a Python script I developed, which automates the process of collecting contribution data from GitHub and visualizing it. The script leverages libraries such as `matplotlib` and `pandas` for data processing and visualization. You can explore the script and its functionality by visiting the [GitHub repository](https://github.com/paradoxial-composition/gitlogs-heatmap-generator).
 
 If you have any questions or suggestions, feel free to reach out!
